@@ -1,0 +1,19 @@
+{
+  "name": "next-transpile-modules-repro",
+  "private": true,
+  "author": "Sebastian Silbermann",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^8.1.0",
+    "next-transpile-modules": "^2.3.1",
+    "prettier": "^1.17.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-select": "^3.0.4"
+  }
+}
